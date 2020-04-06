@@ -89,12 +89,6 @@ read -p "   ╰─root@./DxTmaster=" pil;
 # Nmmap
 
 
-1) pkg install nmap
-echo -e "${y} {1} Masukkan Web${endc}:"
-read web
-nmap $web
-echo
-
 ;;
 
 #Install  admin-finder
