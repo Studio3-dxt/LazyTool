@@ -12,6 +12,7 @@ git remote add origin https://github.com/Studio3-dxt/LazyTool.git
 
 git push -u origin master
 
+
 pkg update && pkg upgrade -y
 
 pkg install git
