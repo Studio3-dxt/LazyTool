@@ -19,12 +19,6 @@ pkg install git
 
 git clone https://github.com/Studio3-dxt/LazyTool
 
-cd Lazytool
-
-cd DxTmaster
-
-cd install.sh
-
-./install.sh
+# "TERIMAKASIH" 
 
                 
