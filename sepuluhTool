@@ -86,10 +86,6 @@ echo -e "============================" |
 echo -e "╭─[PILIH NOMORNYA]"
 read -p "   ╰─root@./DxTmaster=" pil;
 
-# Nmmap
-
-
-;;
 
 #Install  admin-finder
 
