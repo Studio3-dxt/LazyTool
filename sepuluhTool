@@ -29,7 +29,7 @@ cyan='\e[1;36m'
 red='\e[1;31m'
 
 figlet DxTmaster  | 
-echo -b "_____________________________________________________________" | lolcat
+echo -b "_____________________________________________________________" |
 echo -b "TYPE      : TOOLS INSTALLER $green " |
 echo -b "VERSION   : V.0.01 " | 
 echo -b "TOTALS    : 20 TOOLS " | 
